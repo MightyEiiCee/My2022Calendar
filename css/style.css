@@ -5,11 +5,11 @@
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
-            overflow: hidden;
+            
            
 }   
 table{
-            width:70%; 
+            width:80%; 
             height: 940px;    
             border: 5px solid white;
             color: white;
